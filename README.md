@@ -60,5 +60,5 @@ THEN I find a concise, descriptive title***
 
 Lastly, I edited the title to "Horiseon - Digital Media Marketing" so that the page has a clear, descriptive title. 
 
-
-
+### Step 6:
+What I did here was went into the CSS code and consolidated all the reduntant code into groupings and added comments to all the groupings I made to clean up the code. 
