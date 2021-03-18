@@ -39,7 +39,13 @@ What I did for this step was broke the page up into diffrent sections using thes
 ***WHEN I view the structure of the HTML elements<br>
 THEN I find that the elements follow a logical structure independent of styling and positioning***
 
-What I did here was edited the HTML code to improve the logical structure and flow of elements. I moved the ```<aside></aside>``` element so that it goes right after the ```<section></section>``` element
+What I did here was edited the HTML code to improve the logical structure and flow of elements. I moved the ```<aside></aside>``` element so that it goes right after the ```<section></section>``` element so the correct order would be: <br>
+1. header
+2. nav
+3. section
+4. aside
+5. article
+6. footer
 
 
 ### Step 3: 
