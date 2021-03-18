@@ -62,3 +62,15 @@ Lastly, I edited the title to "Horiseon - Digital Media Marketing" so that the p
 
 ### Step 6:
 What I did here was went into the CSS code and consolidated all the reduntant code into groupings and added comments to all the groupings I made to clean up the code. 
+
+<hr>
+
+## Technology Used
+1. HTML
+2. CSS
+
+<hr>
+
+## Links
+[Github Repository](https://github.com/pattymcpat/code-refactoring)<br>
+[Deployed](https://pattymcpat.github.io/code-refactoring/)
