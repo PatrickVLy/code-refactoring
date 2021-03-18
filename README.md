@@ -71,6 +71,10 @@ What I did here was went into the CSS code and consolidated all the reduntant co
 
 <hr>
 
+## Screenshot
+![](photo.png)
+<hr>
+
 ## Links
 [Github Repository](https://github.com/pattymcpat/code-refactoring)<br>
 [Deployed](https://pattymcpat.github.io/code-refactoring/)
